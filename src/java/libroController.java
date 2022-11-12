@@ -43,12 +43,12 @@ StringBuffer objectResponse = new StringBuffer();
                                              Integer.parseInt(request.getParameter("code")),
                                              request.getParameter("name"),
                                              request.getParameter("fecha"),
-                                             request.getParameter("name"),
-                                            Integer.parseInt(request.getParameter("code")));
+                                             request.getParameter("auto"),
+                                            Integer.parseInt(request.getParameter("id")));
                                              registerTrans.saveTrans(libro);
                            }
                            else if(control.toUpperCase().equals("ELIMINAR")){
-                                    int codeDelete = Integer.parseInt(request.getParameter("id_libro"));
+                                    int codeDelete = Integer.parseInt(request.getParameter("codfo_libro"));
                                     registerTrans.deleteTrans(codeDelete);
                                               
                             

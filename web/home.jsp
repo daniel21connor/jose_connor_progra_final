@@ -48,8 +48,7 @@
                                                                                           Registrar
                                                                                 </a>
                                                                                 <ul class="dropdown-menu dropdown-menu-dark" id="menu-navbar">
-                                                                                          <li><a class="dropdown-item" href="LibrosForm.jsp">Registrar Libros </a></li>
-                                                                                          <li><a class="dropdown-item" href="ProfesorForm.jsp">Registrar profesor</a></
+                                                                                          <li><a class="dropdown-item" href="LibroForm.jsp">Registrar Libros </a></li>
                                                                                           <li><hr class="dropdown-divider"></li>
                                                                                 </ul>
                                                                       </li>

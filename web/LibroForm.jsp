@@ -21,6 +21,7 @@
                     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
                     <script src="js/script.js"></script>
                     <script src="js/ScriptLibro.js" type="text/javascript"></script>
+               
                     <link href="style.css" rel="stylesheet" type="text/css"/>
     </head>
     <body><header class="header">

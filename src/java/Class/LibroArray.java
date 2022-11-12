@@ -33,7 +33,7 @@ public class LibroArray {
             statement.setString(2, libro.getNombre());
             statement.setString(3, libro.getFecha());
             statement.setString(4, libro.getAutor());
-            statement.setInt(1, libro.getId());
+            statement.setInt(5, libro.getId());
             int resultado = statement.executeUpdate(); 
             
                 if(resultado > 0){
