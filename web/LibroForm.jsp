@@ -96,7 +96,7 @@
                                 <div class="row my-3">
                              <div class="col">
                     <label for="email">autor</label>
-                    <input type="email" class="form-control" id="mate" placeholder="" name="mate">
+                    <input type="email" class="form-control" id="auto" placeholder="" name="auto">
                 </div>
                             <div class="col">
                                 <label for="telefono">id pasta </label>
